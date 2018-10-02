@@ -9,4 +9,4 @@ Una vez registrado por favor espera un máximo de 24 hrs. para instalar la app d
 
 URL de instalación: https://play.google.com/apps/testing/network.premia.wallet
 
-
+Por favor reporta todo fallo o mal funcionamiento desde https://github.com/goo-technology/premianetworkandroid/issues o en el grupo en Telegram: https://t.me/point_coin
